@@ -3,6 +3,8 @@
 This project is a **deep learning–based Brain Tumor Classification System** built using **TensorFlow** and deployed with **Streamlit**.  
 Users can upload MRI images, and the model predicts the tumor category using a trained Convolutional Neural Network (CNN).
 
+### Deployed App: [BrainTumor-Detector](https://huggingface.co/spaces/Sajid030/BrainTumor-Detection)
+
 ---
 
 ## 🚀 Features
